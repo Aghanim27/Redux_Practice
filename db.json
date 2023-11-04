@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Evan Morissette",
+      "id": 4
+    },
+    {
+      "name": "Laurence Huels",
+      "id": 5
+    },
+    {
+      "name": "Dr. Wesley Bernhard",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Gorgeous Plastic Pizza",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Wooden Towels",
+      "id": 5
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=4040656517332992",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=7699635774685184",
+      "id": 3
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=7648081487069184",
+      "id": 5
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=3815471669313536",
+      "id": 6
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=7564595279429632",
+      "id": 7
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=6539492179574784",
+      "id": 8
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=2670079567200256",
+      "id": 11
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/640/480?lock=3653894555041792",
+      "id": 12
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/640/480?lock=1045742147862528",
+      "id": 13
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/640/480?lock=1458189975420928",
+      "id": 14
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/640/480?lock=3763775446450176",
+      "id": 17
+    },
+    {
+      "albumId": 5,
+      "url": "https://loremflickr.com/640/480?lock=4669014324281344",
+      "id": 18
+    }
+  ]
+}
